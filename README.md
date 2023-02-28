@@ -1,0 +1,2 @@
+# tha-shell
+First gitpush
