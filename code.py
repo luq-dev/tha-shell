@@ -1,4 +1,2 @@
-
-print("Hello world🙂. Nice to see you")
-
+print("Hello world")
 
